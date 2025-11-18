@@ -8,13 +8,6 @@ Features
 	•	Splits the sentence into individual words
 	•	Returns a clean, ready-to-use list/array
 
-**Projet structure**
-.
-├── src/
-│   └── split.py
-├── tests/
-│   └── test_split.py
-└── README.md
 
 **Test**
 
